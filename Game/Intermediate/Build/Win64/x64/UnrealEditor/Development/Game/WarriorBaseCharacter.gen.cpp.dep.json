@@ -1,0 +1,25 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unreal\\zerodeadlysins\\game\\intermediate\\build\\win64\\unrealeditor\\inc\\game\\uht\\warriorbasecharacter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal\\zerodeadlysins\\game\\intermediate\\build\\win64\\x64\\gameeditor\\development\\unrealed\\sharedpch.unrealed.project.novalfmtstr.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "e:\\unreal\\zerodeadlysins\\game\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\game\\definitions.game.h",
+            "e:\\unreal\\zerodeadlysins\\game\\source\\game\\public\\characters\\warriorbasecharacter.h",
+            "e:\\unreal\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "e:\\unreal\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "e:\\unreal\\ue_5.4\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "e:\\unreal\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "e:\\unreal\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "e:\\unreal\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "e:\\unreal\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "e:\\unreal\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "e:\\unreal\\ue_5.4\\engine\\plugins\\runtime\\gameplayabilities\\source\\gameplayabilities\\public\\abilitysysteminterface.h",
+            "e:\\unreal\\ue_5.4\\engine\\plugins\\runtime\\gameplayabilities\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplayabilities\\uht\\abilitysysteminterface.generated.h",
+            "e:\\unreal\\zerodeadlysins\\game\\intermediate\\build\\win64\\unrealeditor\\inc\\game\\uht\\warriorbasecharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

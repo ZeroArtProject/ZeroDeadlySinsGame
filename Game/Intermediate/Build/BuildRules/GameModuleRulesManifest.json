@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Unreal\\ZeroDeadlySins\\Game\\Source\\Game\\Game.Build.cs",
+		"E:\\Unreal\\ZeroDeadlySins\\Game\\Source\\Game.Target.cs",
+		"E:\\Unreal\\ZeroDeadlySins\\Game\\Source\\GameEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.3"
+}

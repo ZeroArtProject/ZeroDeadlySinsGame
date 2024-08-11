@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unreal\\zerodeadlysins\\game\\source\\game\\private\\items\\weapons\\warriorheroweapon.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal\\zerodeadlysins\\game\\intermediate\\build\\win64\\x64\\gameeditor\\development\\unrealed\\sharedpch.unrealed.project.novalfmtstr.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "e:\\unreal\\zerodeadlysins\\game\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\game\\definitions.game.h",
+            "e:\\unreal\\zerodeadlysins\\game\\source\\game\\public\\items\\weapons\\warriorheroweapon.h",
+            "e:\\unreal\\zerodeadlysins\\game\\source\\game\\public\\items\\weapons\\warriorweaponbase.h",
+            "e:\\unreal\\zerodeadlysins\\game\\intermediate\\build\\win64\\unrealeditor\\inc\\game\\uht\\warriorweaponbase.generated.h",
+            "e:\\unreal\\zerodeadlysins\\game\\intermediate\\build\\win64\\unrealeditor\\inc\\game\\uht\\warriorheroweapon.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unreal\\zerodeadlysins\\game\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\game\\singlefile\\warriordebughelper.h",
+        "ProvidedModule": "",
+        "Includes": [
+            "e:\\unreal\\zerodeadlysins\\game\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\game\\definitions.game.h",
+            "e:\\unreal\\zerodeadlysins\\game\\intermediate\\build\\win64\\x64\\gameeditor\\development\\engine\\shareddefinitions.engine.cpp20.h",
+            "e:\\unreal\\zerodeadlysins\\game\\source\\game\\public\\warriordebughelper.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
